@@ -1,0 +1,1 @@
+﻿%SYSTEMROOT%\System32\Dism.exe /Online /LogLevel:4 /Add-Package /PackagePath:"%~dp0microsoft-windows-netfx3-ondemand-package~31bf3856ad364e35~amd64~~.cab" /NoRestart /Quiet
